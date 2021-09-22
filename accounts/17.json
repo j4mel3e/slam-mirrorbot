@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-aileron-325605",
+  "private_key_id": "2ede6d4e481102a407bbe495861c49eff3b58802",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7oYVlEOAn6tIC\neqZrfiHvrzcoiGDW4DTTSvvS/MWY7rcOH8+A6CTP/3ExJeU9q+2j9t52oJ5W1YHp\nG8VUwskwy3eHjxAG/UhCub9orLvzqLyL3+5pifgbhzKuY+PTWVPX0DgEToOTu2Os\nd/lh2VyNV7SGNNnI1BqEA6XblPhcquiUKjQvJ8xth35ZRcpKSUOQE3c+3F6ZZruf\nEhYzONS9IugknaRSXawvyvTIVaLkex6PV/MBbHNxLKMDmIVbmaLreJ9wg2D4LJfE\nP+CpEjdKkSEJewrlPUOHF5KIcqfeiRxybACcNqVfF/660dPhWU/QpQ+1AVuyu4Ry\nOZyXrfEdAgMBAAECggEABa1ieudi0PJi/l41sOT1I+p6UcimnXnVP1tyeTTaycDX\nWx8NSUo86upAw4rw/8e2/hIXMyGzCM+XCbWkZ+co7UgKythCVOPPDu3N493uJfZC\nFj1lWl4pWrPhjbNKDngSeGI9f6vcgVjXMD3FFvfbvA8eUD1DJbd9QedWWmmMhkk8\nTvjMWa3B9x/6R8D4nuw5SpMbhjXX1FfmOkY0N7frPmRu0yH86ciXhzCZERENS9Pm\nqYa0zQjEEkBqsbJfd7gQmBIEUdujmkXIieNc7wPda5B+AZrSfm44berVAo4aoFRn\nKirj1dcBLZS+UIoleMIvZrfTaVAQweXC8kXue+8CQQKBgQDmFoOdrDNQtis78fSn\nAA6M0pRgTB0j2/UFYtgWPVUfv0fLL6MnhU6AAsD+3o9RNFgB51nmEDPX8lEv0YJR\nw3P/RmimD9YVAoL3JxAHNz6kauEMeMzpvWKj19jtgtZK91l/a24UUaZN4sIWG5g8\nusJLLcF2me5pN7Lmt+eO6JiR0QKBgQDQwvZUGAxph1fyZd1KCGjnLYBeKz6Dp+uB\niohtce8zmI5mukNr6zPs0TwEalcelL45QruF8KGt0zlPjNVfmsoRnkU9r7CYAmS2\nu2iLzu5/tkJGIEIxAIQlimsQQHbmuRgu1WlU5R0vQsSwCnIBJuR0tIvLkJ7AIy40\nHylKP3rRjQKBgGayveRurCjmZr3G7XBs8hGhHGEvGAKdduwEhnbGwWv+MMlcZfKJ\n6dPxZrtcE5QnTPDslo+9w6Yrnlk9pnFgUDIs9yDICMIv8MzoPps56Vfx7Kloce4S\nfiire0PoFkY3yVa6WNPw7c3t3LuJbZYNthNgRO3vHx8PoWahx1VeNFtBAoGBALE1\nzoR0JZUvHqjVb5N4sBQNu/o0G00HLhM41baSEMtrpPXvB2yEq/9LXfchjfKXsSJK\nU4TPT2+O7gdpNXeCniV2hLBogy+GWJgFXinP7wTaYkfE+ms+VO7JITkaf9Q7KxwW\nbONz2eJUe0I0m7H+oc+vszuJ+DiBpKb6DMLKQCfBAoGAGKJvsU9luWD6CG3ZnpFD\nF/JP2Wn3ebDje+xhJcTyxqegdHUlu2CQ1DLIfKcj12jHtbKY16BX0SmG5tqPBjJk\nQCuF0vAXLz2U0r2AlyphlYXyWys9DFVSKCUAREv79ftYdM5VC3qxIsKlO9vCcTie\nkt5dQObR5seQ0R837IH7Lfs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-uipascfl7k2-0xlzz5-02n0k5u@lexical-aileron-325605.iam.gserviceaccount.com",
+  "client_id": "109901226861780115575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-uipascfl7k2-0xlzz5-02n0k5u%40lexical-aileron-325605.iam.gserviceaccount.com"
+}
